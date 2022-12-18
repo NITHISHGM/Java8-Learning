@@ -1,0 +1,17 @@
+--> 17-12-22
+
+Basics completed
+comments
+varialbles
+data types
+string
+boolean
+type casting
+
+--> 18-12-22
+
+If else
+For loop
+DoWhile
+while
+Switch
